@@ -1,0 +1,11 @@
+c:\users\amin hudda\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Debug\Project 1.exe.config
+c:\users\amin hudda\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Debug\Project 1.exe
+c:\users\amin hudda\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Debug\Project 1.pdb
+c:\users\amin hudda\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Debug\Project 1.xml
+c:\users\amin hudda\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project 1.vbprojResolveAssemblyReference.cache
+c:\users\amin hudda\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project_1.Form1.resources
+c:\users\amin hudda\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project_1.Resources.resources
+c:\users\amin hudda\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project 1.vbproj.GenerateResource.Cache
+c:\users\amin hudda\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project 1.exe
+c:\users\amin hudda\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project 1.xml
+c:\users\amin hudda\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project 1.pdb
